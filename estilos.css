@@ -1,0 +1,72 @@
+.bodyprincipal {
+    background-color: #574213;
+    background-image: url("library1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.bordeh {
+    background-color: #C08283;
+
+}
+.listacabecera1{
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium';
+    color: #E5E7E9;
+}
+.listacabecera2{
+    font-size: xx-large;
+    color: #0430f1fa;
+}
+#titulo{
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium';
+    color:#E5E7E9;
+}
+#cabecera{
+    background-color: #c76666a6;
+    border-spacing: 0px;
+}
+.title{
+    font-size:x-larger;
+    font-weight: bolder;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:#FA8072;
+}
+.contenido{
+    background-color:#242423ad ;
+}
+.parrafoG{
+    font-size:large;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:#FA8072;
+}
+.footer{
+    font-size:small;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:#FA8072;
+}
+.bodycultura {
+    background-color: #574213;
+    background-image: url("background_worldball.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+.bodyciencia {
+    background-color: #574213;
+    background-image: url("fondociencia.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+.bodygames {
+    background-color: #574213;
+    background-image: url("fondogames.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+#proximamente{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium';
+    color:#ff0000;
+}
